@@ -1,6 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
 	<AutoSplitter>
+		<Games>
+			<Game>Lufia II: Rise of the Sinistrals</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/Traviktox/Lufia_2_ACAutosplitter/master/Lufia_Autosplitter_v1.2</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Autosplitter for Lufia 2 - Ancient Cave</Description>
+		<Website>https://discord.gg/znZeQQ</Website>
+	</AutoSplitter>
+	<AutoSplitter>
 	<Games>
 		<Game>Jimmy Neutron: Boy Genius (PC)</Game>
 	</Games>
